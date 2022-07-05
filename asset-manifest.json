@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bhagyashri-11/Neha-Portfolio.git/static/css/main.8c127d55.css",
+    "main.js": "/Bhagyashri-11/Neha-Portfolio.git/static/js/main.63f795a6.js",
+    "static/js/787.bf4cbe01.chunk.js": "/Bhagyashri-11/Neha-Portfolio.git/static/js/787.bf4cbe01.chunk.js",
+    "index.html": "/Bhagyashri-11/Neha-Portfolio.git/index.html",
+    "main.8c127d55.css.map": "/Bhagyashri-11/Neha-Portfolio.git/static/css/main.8c127d55.css.map",
+    "main.63f795a6.js.map": "/Bhagyashri-11/Neha-Portfolio.git/static/js/main.63f795a6.js.map",
+    "787.bf4cbe01.chunk.js.map": "/Bhagyashri-11/Neha-Portfolio.git/static/js/787.bf4cbe01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c127d55.css",
+    "static/js/main.63f795a6.js"
+  ]
+}
